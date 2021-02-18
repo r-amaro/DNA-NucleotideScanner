@@ -15,6 +15,7 @@ Memory is allocated for 30 locations per each specific genetic code 'word'.
 Hashing was used as an index to store words in the final[] array.
 
 AAAAAAAAAA = 0
+
 TTTTTTTTTT = 1,048,575
 
 ---------------------------------------------------------------------
